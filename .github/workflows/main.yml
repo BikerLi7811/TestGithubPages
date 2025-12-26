@@ -20,3 +20,5 @@ jobs:
 		git config user.email '84213651+BikerLi7811@users.noreply.github.com' 
 		git commit -am "bot: update README.md automatically" 
 		git push
+permissions:
+  contents: write
